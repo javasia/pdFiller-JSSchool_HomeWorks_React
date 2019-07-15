@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+}
+
+.alert-input {
+  font-size: 3rem;
+}
+
+.alert-button {
+  border: 1px black solid;
+  border-radius: 5px;
+}
+
+.alert-button:disabled {
+  color: #cccccc;
+  border-color: #cccccc;
+  background: transparent;
+}
+
+.alert {
+  font-family: serif;
+}
